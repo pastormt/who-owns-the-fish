@@ -2,6 +2,8 @@
 
 A backtracking solution to a fun, little puzzle ;-) 
 
+Given the hints below, the question is: Who owns the fish?
+
 - The Brit lives in a red house
 - The Swede keeps dogs
 - The Dane drinks tea
