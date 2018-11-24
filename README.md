@@ -21,3 +21,6 @@ Given the hints below, the question is: Who owns the fish?
 - The man who plays baseball has a neighbor who drinks water.
 
 (from https://www.mathsisfun.com/logicpuzzle.html)
+
+To run:
+go run $(ls -1 *.go | grep -v _test.go)
